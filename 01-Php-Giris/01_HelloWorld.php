@@ -15,6 +15,10 @@
             çoklu açıklama satırıdır.
         */ 
         print 24;
+        echo"<br>";
+
+
     ?>
+    <?="metin"?>
 </body>
 </html>
