@@ -1,5 +1,5 @@
 <?php
 
-    echo "Hello Php"
-
+    echo "Merhaba Dünya";
+    echo "Merhaba Dünya";
 ?>
