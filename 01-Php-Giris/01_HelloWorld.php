@@ -7,8 +7,13 @@
 </head>
 <body>
     <?php
+        //bu bir açıklama satırıdır
         echo "Hello World !!!"."<br>";
+        #bu bir açıklama satırıdır.
         print 'Merhaba Dünya<br>';
+        /*
+            çoklu açıklama satırıdır.
+        */ 
         print 24;
     ?>
 </body>
