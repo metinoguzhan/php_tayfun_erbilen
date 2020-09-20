@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost/projects/01-Php-Giris/",
+            "url": "http://localhost/projects/02-Php-Operatorler/",
             "webRoot": "${workspaceFolder}"
         }
     ]
