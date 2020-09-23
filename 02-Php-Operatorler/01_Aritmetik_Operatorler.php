@@ -14,7 +14,11 @@
 
 
      echo 15+5;
-     echo "Metin";
-     
-
+     echo "<br>";
+     echo 20-5;
 ?>
+
+
+
+
+
