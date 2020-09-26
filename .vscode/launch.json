@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost/projects/04_Php_Diziler/",
+            "url": "http://localhost/projects/05_Php_Donguler/",
             "webRoot": "${workspaceFolder}"
         }
     ]
