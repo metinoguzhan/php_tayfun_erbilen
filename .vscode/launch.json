@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost/projects/02-Php-Operatorler/",
+            "url": "http://localhost/projects/03_Php_Kosullu_Ifadeler/",
             "webRoot": "${workspaceFolder}"
         }
     ]
