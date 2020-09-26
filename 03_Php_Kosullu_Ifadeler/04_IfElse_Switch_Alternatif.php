@@ -35,3 +35,11 @@
 <?php
     }
 ?>
+<br><br>
+
+
+<?php if($a == 5) :?>
+        <i>
+            <b>a değişkeni 5 değerine eşittir.</b>
+        </i>
+<?php endif ?> 
